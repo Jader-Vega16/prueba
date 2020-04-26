@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{ED78AEC6-2615-43FF-9C63-578BA5E74B3A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Contabilidad__General PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Contabilidad_General" expanded="True">
+            <Node name="Contabilidad_General" expanded="True">
+              <Node name="Control_de_Empresa.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
